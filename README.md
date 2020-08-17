@@ -31,5 +31,3 @@ Check this list for the required intermediate certificates.
 If the certificates names were not in the Issued To columns, they must be installed. If an intermediate certificate was only in the Current User Intermediate Certificate store, then it is available only to the user that is logged in. You might need to install it for other users.
 
 
-
-
